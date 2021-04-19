@@ -2,7 +2,7 @@
 
 This repo has been forked from https://github.com/chrchang/plink-ng.
 
-Modifications have been made to plink-ng/1.9/dose2plink.c in order to be able to compile with local zlib.
+Modifications have been made to plink-ng/1.9/dose2plink.c in order to be able to compile with system zlib.
 
 In order to compile plink-ng/1.9/dose2plink.c make sure gcc and zlib is installed on your machine such as:
 
